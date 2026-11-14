@@ -1,0 +1,162 @@
+{
+  "storeUrl": "https://girlfriend.com",
+  "domain": "girlfriend-com",
+  "capturedAt": "2026-11-08T12:54:00.825Z",
+  "ownProductsStatus": "ok",
+  "competitors": [
+    {
+      "domain": "gymshark.com",
+      "name": "Gymshark",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "zero_search_results",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Gymshark Edge Leggings - Cherry Purple",
+          "url": "https://gymshark.com/products/gymshark-edge-leggings-leggings-purple-aw26",
+          "publishedAt": "2026-11-06T03:00:00-08:00"
+        },
+        {
+          "title": "Gymshark Shaker Bottle - Black",
+          "url": "https://gymshark.com/products/gymshark-shaker-bottle-bottles-black-aw26",
+          "publishedAt": "2026-11-04T09:50:00-08:00"
+        },
+        {
+          "title": "Gymshark Power Washed Track Pants Short - Pitch Grey/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-track-pants-short-pants-grey-aw26",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        },
+        {
+          "title": "Gymshark Power Washed Track Pants Tall - Pitch Grey/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-track-pants-tall-pants-grey-aw26",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        },
+        {
+          "title": "Gymshark Power Washed Cropped Full Zip Hoodie - Strength Pink/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-cropped-full-zip-hoodie-pullovers-pink-aw26-b6c8x-kdp1",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        },
+        {
+          "title": "Gymshark Power Washed Ribbed Henley Tank - Chalk Beige/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-ribbed-henley-tank-sleeveless-tops-brown-aw26",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        },
+        {
+          "title": "Gymshark Power Washed Cropped Full Zip Hoodie - Haze Pink/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-cropped-full-zip-hoodie-pullovers-pink-aw26",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        },
+        {
+          "title": "Gymshark Power Washed Cropped Full Zip Hoodie - Black/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-cropped-full-zip-hoodie-pullovers-black-aw26",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        },
+        {
+          "title": "Gymshark Power Washed Cropped Full Zip Hoodie - Chalk Beige/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-cropped-full-zip-hoodie-pullovers-brown-aw26",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        },
+        {
+          "title": "Gymshark Power Washed Ribbed Cropped Henley - Strength Pink/Wash",
+          "url": "https://gymshark.com/products/gymshark-power-washed-ribbed-cropped-henley-ss-tops-pink-aw26",
+          "publishedAt": "2026-10-29T12:00:00-07:00"
+        }
+      ],
+      "productsSourceUrl": "https://gymshark.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:53:40.355Z"
+    },
+    {
+      "domain": "buffbunny.com",
+      "name": "Buff Bunny",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "no_search_result_page_matched_the_footer_link",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Poshknit Aggressive Scrunch Legging - Taffy Purple",
+          "url": "https://buffbunny.com/products/poshknit-aggressive-scrunch-legging-short-taffy-purple",
+          "publishedAt": "2026-11-02T10:21:54-06:00"
+        },
+        {
+          "title": "Plush Fleece Straight Leg Sweat Pant - Honeydew",
+          "url": "https://buffbunny.com/products/plush-fleece-straight-leg-sweat-pant-honeydew",
+          "publishedAt": "2026-11-02T09:12:32-06:00"
+        },
+        {
+          "title": "Cheeky Straight Leg Mid Rise Jeans - Washed Black",
+          "url": "https://buffbunny.com/products/cheeky-straight-leg-hip-jeans-washed-black",
+          "publishedAt": "2026-10-28T15:53:01-05:00"
+        },
+        {
+          "title": "Cheeky Straight Leg Mid Rise Jeans - Medium Wash",
+          "url": "https://buffbunny.com/products/cheeky-straight-leg-hip-jeans-medium-wash",
+          "publishedAt": "2026-10-28T15:53:00-05:00"
+        },
+        {
+          "title": "Cheeky Straight Leg Mid Rise Jeans - Light Wash",
+          "url": "https://buffbunny.com/products/cheeky-straight-leg-hip-jeans-light-wash",
+          "publishedAt": "2026-10-28T15:52:59-05:00"
+        },
+        {
+          "title": "Cheeky Straight Leg High Rise Jeans - Washed Black",
+          "url": "https://buffbunny.com/products/cheeky-straight-leg-jeans-washed-black",
+          "publishedAt": "2026-10-28T15:52:58-05:00"
+        },
+        {
+          "title": "Cheeky Straight Leg High Rise Jeans - Medium Wash",
+          "url": "https://buffbunny.com/products/cheeky-straight-leg-jeans-medium-wash",
+          "publishedAt": "2026-10-28T15:52:56-05:00"
+        },
+        {
+          "title": "Cheeky Straight Leg High Rise Jeans - Light Wash",
+          "url": "https://buffbunny.com/products/cheeky-straight-leg-jeans-light-wash",
+          "publishedAt": "2026-10-28T15:52:54-05:00"
+        },
+        {
+          "title": "6 Pack Micro Scrunchie - Essential 1 Multi",
+          "url": "https://buffbunny.com/products/6-pack-micro-scrunchie-essential-1-multi",
+          "publishedAt": "2026-10-28T13:01:30-05:00"
+        },
+        {
+          "title": "Momentum Short 3\" Liner - Baked Blue",
+          "url": "https://buffbunny.com/products/momentum-short-3-liner-baked-blue",
+          "publishedAt": "2026-10-28T13:01:27-05:00"
+        }
+      ],
+      "productsSourceUrl": "https://buffbunny.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:53:40.362Z"
+    },
+    {
+      "domain": "fabletics.com",
+      "name": "Fabletics",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "no_facebook_link_found_on_competitor_site",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "not_enough_data",
+      "productsReason": "no_products_json_or_sitemap_available",
+      "newProducts": [],
+      "productsSourceUrl": "https://fabletics.com",
+      "productsCapturedAt": "2026-11-08T12:53:41.828Z"
+    }
+  ],
+  "moves": [],
+  "movesDiagnostics": {
+    "groundedCount": 0,
+    "totalCount": 0,
+    "distinctCompetitorsCited": 0,
+    "diversityOk": false
+  },
+  "summary": {
+    "activeAdsFound": 0,
+    "longestRunningAdDays": null,
+    "newProductsLast30Days": 20
+  }
+}

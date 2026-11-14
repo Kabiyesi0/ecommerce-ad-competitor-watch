@@ -1,0 +1,192 @@
+{
+  "storeUrl": "https://colorfulstandard.com",
+  "domain": "colorfulstandard-com",
+  "capturedAt": "2026-11-08T12:53:14.394Z",
+  "ownProductsStatus": "ok",
+  "competitors": [
+    {
+      "domain": "harvestandmill.com",
+      "name": "Harvest and Mill",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "no_facebook_link_found_on_competitor_site",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Women's Organic Black Pack: Jogger Pants + Unisex Style Tee",
+          "url": "https://harvestandmill.com/products/blackpack-1",
+          "publishedAt": "2026-01-28T18:21:12-08:00"
+        },
+        {
+          "title": "Women's Organic Natural Pack: Jogger Pants + Unisex Style Tee",
+          "url": "https://harvestandmill.com/products/naturalpack-1",
+          "publishedAt": "2026-01-28T18:20:32-08:00"
+        },
+        {
+          "title": "Women's Organic Unisex Style V-Neck Tee in Black",
+          "url": "https://harvestandmill.com/products/womens-organic-unisex-style-v-neck-tee-in-black",
+          "publishedAt": "2025-08-20T10:14:50-07:00"
+        },
+        {
+          "title": "Women's Organic Unisex Style V-Neck Tee in Natural",
+          "url": "https://harvestandmill.com/products/womens-organic-unisex-style-v-neck-tee-in-natural",
+          "publishedAt": "2025-08-20T10:13:51-07:00"
+        },
+        {
+          "title": "Men's Organic V-Neck Tee in Natural",
+          "url": "https://harvestandmill.com/products/mens-organic-v-neck-tee-in-natural",
+          "publishedAt": "2025-08-20T10:13:51-07:00"
+        },
+        {
+          "title": "Men's Organic V-Neck Tee in Black",
+          "url": "https://harvestandmill.com/products/mens-organic-v-neck-tee-in-black",
+          "publishedAt": "2025-08-20T10:13:51-07:00"
+        },
+        {
+          "title": "Women's Organic Straight Leg Lounge Pants in Black",
+          "url": "https://harvestandmill.com/products/womens-organic-straight-leg-lounge-pants-in-black",
+          "publishedAt": "2025-07-14T09:06:47-07:00"
+        },
+        {
+          "title": "Women's Organic Straight Leg Lounge Pants in Natural",
+          "url": "https://harvestandmill.com/products/womens-organic-straight-leg-lounge-pants-in-natural",
+          "publishedAt": "2025-07-14T09:06:47-07:00"
+        },
+        {
+          "title": "Men's Organic Straight Leg Lounge Pants in Natural",
+          "url": "https://harvestandmill.com/products/mens-organic-straight-leg-lounge-pants-in-natural",
+          "publishedAt": "2025-07-14T09:06:47-07:00"
+        },
+        {
+          "title": "Men's Organic Straight Leg Lounge Pants in Black",
+          "url": "https://harvestandmill.com/products/mens-organic-straight-leg-lounge-pants-in-black",
+          "publishedAt": "2025-07-14T09:06:47-07:00"
+        }
+      ],
+      "productsSourceUrl": "https://harvestandmill.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:52:46.617Z"
+    },
+    {
+      "domain": "wearpact.com",
+      "name": "Wear Pact",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "no_facebook_link_found_on_competitor_site",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "not_enough_data",
+      "productsReason": "no_products_json_or_sitemap_available",
+      "newProducts": [],
+      "productsSourceUrl": "https://wearpact.com",
+      "productsCapturedAt": "2026-11-08T12:52:51.858Z"
+    },
+    {
+      "domain": "bluecanoe.com",
+      "name": "Blue Canoe",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "ok",
+      "totalAdsFound": 50,
+      "topAds": [
+        {
+          "libraryId": "977715557400495",
+          "adText": "There's a reason this is our Best-Selling Organic Bra! 📍For Jen’s Bra we use a soft, but substantial fabric that is 87% organically grown cotton and 13% spandex. 📍The spandex supplies soft, comfortable support, while the organic cotton is pure, soft and breathable.📍The wide bottom band doesn’t di",
+          "adUrl": "https://www.facebook.com/ads/library/?id=977715557400495",
+          "startDate": "2024-05-03",
+          "daysRunning": 919,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "1197624788270196",
+          "adText": "We've been designing breast healthy bras since 1994. We use 100% natural fiber organic cotton and bamboo.BLUECANOE.COMGuaranteed To Be Comfortable 24/7At Blue Canoe we are known for our natural fabric and healthy comfort bras. We use 100% natural fiber organic cotton and bamboo. Come see our full or",
+          "adUrl": "https://www.facebook.com/ads/library/?id=1197624788270196",
+          "startDate": "2024-05-03",
+          "daysRunning": 919,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "965968498572316",
+          "adText": "\"I'm not sure how I lived without this bra! Getting rid of all my non-organic underwires - this bra is the best!\" You'll be asking yourself the same thing.BLUECANOE.COMBreast-Healthy Comfort Bras Since 1994This shape-enhancing bra is one of our best sellers year after year. The wide fabric band is s",
+          "adUrl": "https://www.facebook.com/ads/library/?id=965968498572316",
+          "startDate": "2024-05-03",
+          "daysRunning": 919,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        }
+      ],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Fleece Long Sleeve",
+          "url": "https://bluecanoe.com/products/fleece-long-sleeve",
+          "publishedAt": "2026-10-07T09:24:10-07:00"
+        },
+        {
+          "title": "Robe",
+          "url": "https://bluecanoe.com/products/robe",
+          "publishedAt": "2026-08-25T15:52:04-07:00"
+        },
+        {
+          "title": "Baby Rib Turtle Neck",
+          "url": "https://bluecanoe.com/products/baby-rib-turtle-neck",
+          "publishedAt": "2026-08-04T11:54:46-07:00"
+        },
+        {
+          "title": "Baby Rib Boat Neck",
+          "url": "https://bluecanoe.com/products/baby-rib-boat-neck",
+          "publishedAt": "2026-08-04T11:54:44-07:00"
+        },
+        {
+          "title": "Pointelle Night Dress",
+          "url": "https://bluecanoe.com/products/pointelle-night-dress",
+          "publishedAt": "2026-08-04T11:54:40-07:00"
+        },
+        {
+          "title": "Pointelle Cuffed Pant",
+          "url": "https://bluecanoe.com/products/pointelle-cuffed-pant",
+          "publishedAt": "2026-08-04T11:54:36-07:00"
+        },
+        {
+          "title": "Pointelle Cuffed Top",
+          "url": "https://bluecanoe.com/products/pointelle-cuffed-top",
+          "publishedAt": "2026-08-04T11:54:34-07:00"
+        },
+        {
+          "title": "Overlap Hem Long Sleeve",
+          "url": "https://bluecanoe.com/products/overlap-hem-long-sleeve",
+          "publishedAt": "2026-08-04T11:54:23-07:00"
+        },
+        {
+          "title": "Pleat Cuff Top",
+          "url": "https://bluecanoe.com/products/pleat-cuff-top",
+          "publishedAt": "2026-08-04T11:54:14-07:00"
+        },
+        {
+          "title": "Cotton Slub Easy Pant",
+          "url": "https://bluecanoe.com/products/cotton-slub-easy-pant",
+          "publishedAt": "2026-08-04T11:54:00-07:00"
+        }
+      ],
+      "productsSourceUrl": "https://bluecanoe.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:52:47.727Z"
+    }
+  ],
+  "moves": [],
+  "movesDiagnostics": {
+    "groundedCount": 0,
+    "totalCount": 0,
+    "distinctCompetitorsCited": 0,
+    "diversityOk": false
+  },
+  "summary": {
+    "activeAdsFound": 50,
+    "longestRunningAdDays": 919,
+    "newProductsLast30Days": 0
+  }
+}

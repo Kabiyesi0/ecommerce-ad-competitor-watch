@@ -1,0 +1,260 @@
+{
+  "storeUrl": "https://shefit.com",
+  "domain": "shefit-com",
+  "capturedAt": "2026-11-08T14:06:50.648Z",
+  "ownProductsStatus": "ok",
+  "competitors": [
+    {
+      "domain": "bodyglove.com",
+      "name": "Body Glove",
+      "whyPicked": "Direct-to-consumer sports bra and activewear brand offering high and low impact options, adjustable support, and comprehensive women's athletic wear - directly comparable to Shefit's mid-tier positioning and product focus.",
+      "adsStatus": "ok",
+      "totalAdsFound": 45,
+      "topAds": [
+        {
+          "libraryId": "1195390429123219",
+          "adText": "Body Glove is the ICONIC swimwear brand that turns every trip to the water into a stylish adventure. Refresh your essentials with our timeless collection of premium women's swimwear. #BodyGloveBODYGLOVE.COMSmoothies Thong Swim Bottom - BlackExplore Body Glove's new women's swimwear! Discover vibrant",
+          "adUrl": "https://www.facebook.com/ads/library/?id=1195390429123219",
+          "startDate": "2025-10-20",
+          "daysRunning": 384,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "1766835884034263",
+          "adText": "Bikini Season on repeat 🔥 New colors dropping...0:00 / 0:14Free Shipping $150+Fits Like a GloveShop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=1766835884034263",
+          "startDate": "2025-11-12",
+          "daysRunning": 361,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "815355154540657",
+          "adText": "The wild side of paradise. meet the Primal Swim Collection.0:00 / 0:13Free Shipping $150+Fits Like a GloveShop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=815355154540657",
+          "startDate": "2025-11-14",
+          "daysRunning": 359,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        }
+      ],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Glee Stand Up One-Piece Swimsuit - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-stand-up-one-piece-swimsuit-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:33-08:00"
+        },
+        {
+          "title": "Glee Ruth Fixed Triangle Swim Top - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-ruth-fixed-triangle-swim-top-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:32-08:00"
+        },
+        {
+          "title": "Glee Rosie Swim Bottom - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-rosie-swim-bottom-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:30-08:00"
+        },
+        {
+          "title": "Glee Phillis Low Rise Bikini Bottom - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-phillis-low-rise-bikini-bottom-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:29-08:00"
+        },
+        {
+          "title": "Glee Marlee Plus Size High-Waist Bikini Bottom - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-marlee-plus-size-high-waist-bikini-bottom-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:28-08:00"
+        },
+        {
+          "title": "Glee Let It Be Crop Rashguard - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-let-it-be-crop-rashguard-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:26-08:00"
+        },
+        {
+          "title": "Glee Greta Underwire Bikini Top - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-greta-underwire-bikini-top-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:25-08:00"
+        },
+        {
+          "title": "Glee Flirty Surf Rider Swim Bottom - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-flirty-surf-rider-swim-bottom-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:24-08:00"
+        },
+        {
+          "title": "Glee Exhale Plus Size Rashguard - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-exhale-plus-size-rashguard-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:22-08:00"
+        },
+        {
+          "title": "Glee Drew D-F Cup Bikini Top - Bubble Gum",
+          "url": "https://bodyglove.com/products/glee-drew-d-f-cup-bikini-top-bubble-gum",
+          "publishedAt": "2026-11-02T14:19:21-08:00"
+        }
+      ],
+      "productsSourceUrl": "https://bodyglove.com/products.json",
+      "productsCapturedAt": "2026-11-08T14:06:01.020Z"
+    },
+    {
+      "domain": "aloyoga.com",
+      "name": "Alo Yoga",
+      "whyPicked": "Premium DTC activewear brand specializing in sports bras, leggings, and athletic wear with emphasis on bust support and high-quality construction - comparable price tier and product category to Shefit.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "no_instagram_or_brand_name_match",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Hazy Mock Neck Pullover - Navy",
+          "url": "https://aloyoga.com/products/w3845r-hazy-mock-neck-pullover-navy",
+          "publishedAt": "2026-11-08T05:57:29-08:00"
+        },
+        {
+          "title": "Airlift Headband - Brownstone",
+          "url": "https://aloyoga.com/products/a0054u-airlift-headband-brownstone",
+          "publishedAt": "2026-11-08T05:57:28-08:00"
+        },
+        {
+          "title": "Alosoft Intuition High-Waist Bootcut - Athletic Heather Grey",
+          "url": "https://aloyoga.com/products/w54274r-alosoft-intuition-high-waist-bootcut-athletic-heather-grey",
+          "publishedAt": "2026-11-08T05:57:28-08:00"
+        },
+        {
+          "title": "Alosoft Head Start Bra - Gravel",
+          "url": "https://aloyoga.com/products/w9744r-alosoft-head-start-bra-gravel",
+          "publishedAt": "2026-11-08T05:57:27-08:00"
+        },
+        {
+          "title": "Cropped Fan Favorite Full Zip Jacket - Black",
+          "url": "https://aloyoga.com/products/w4778r-cropped-fan-favorite-full-zip-jacket-black",
+          "publishedAt": "2026-11-08T05:47:31-08:00"
+        },
+        {
+          "title": "Double Or Nothing Tennis Skirt - Paradise Pink",
+          "url": "https://aloyoga.com/products/w6574r-double-or-nothing-tennis-skirt-paradise-pink",
+          "publishedAt": "2026-11-08T05:27:23-08:00"
+        },
+        {
+          "title": "Notable Beanie - Rich Bordeaux",
+          "url": "https://aloyoga.com/products/a0499u-notable-beanie-rich-bordeaux-mens",
+          "publishedAt": "2026-11-08T05:07:03-08:00"
+        },
+        {
+          "title": "Notable Beanie - Rich Bordeaux",
+          "url": "https://aloyoga.com/products/a0499u-notable-beanie-rich-bordeaux",
+          "publishedAt": "2026-11-08T05:07:03-08:00"
+        },
+        {
+          "title": "Alumni Tennis Skirt - White",
+          "url": "https://aloyoga.com/products/w6480r-alumni-tennis-skirt-white",
+          "publishedAt": "2026-11-08T05:07:02-08:00"
+        },
+        {
+          "title": "Warrior Mat - Eclipse",
+          "url": "https://aloyoga.com/products/w7192r-warrior-mat-eclipse",
+          "publishedAt": "2026-11-08T04:47:29-08:00"
+        }
+      ],
+      "productsSourceUrl": "https://aloyoga.com/products.json",
+      "productsCapturedAt": "2026-11-08T14:06:00.987Z"
+    },
+    {
+      "domain": "talaactivewear.com",
+      "name": "Tala Activewear",
+      "whyPicked": "Sustainably-made DTC activewear brand offering performance sports bras and athletic apparel with focus on supportive, functional design - matches Shefit's mid-tier category and direct-to-consumer model.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "tab_timeout_after_30s_only_0_cards_read",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "not_enough_data",
+      "productsReason": "no_products_json_or_sitemap_available",
+      "newProducts": [],
+      "productsSourceUrl": "https://talaactivewear.com",
+      "productsCapturedAt": "2026-11-08T14:06:09.618Z"
+    }
+  ],
+  "moves": [
+    {
+      "competitorObservation": "Body Glove launched multiple swimwear pieces in the Glee collection in Bubble Gum color on November 2, 2026, including a one-piece swimsuit, crop rashguard, and plus-size options.",
+      "suggestion": "Develop a coordinated color-drop collection across multiple silhouettes in your swim and athletic wear line to create a cohesive seasonal offering that encourages customers to build complete outfits.",
+      "citedCompetitorDomains": [
+        "bodyglove.com"
+      ],
+      "sources": [
+        {
+          "findingId": "bodyglove.com-product-0",
+          "competitorDomain": "bodyglove.com",
+          "brandName": "Body Glove",
+          "kind": "product",
+          "url": "https://bodyglove.com/products/glee-stand-up-one-piece-swimsuit-bubble-gum",
+          "date": "2026-11-02T14:19:33-08:00"
+        },
+        {
+          "findingId": "bodyglove.com-product-5",
+          "competitorDomain": "bodyglove.com",
+          "brandName": "Body Glove",
+          "kind": "product",
+          "url": "https://bodyglove.com/products/glee-let-it-be-crop-rashguard-bubble-gum",
+          "date": "2026-11-02T14:19:26-08:00"
+        }
+      ]
+    },
+    {
+      "competitorObservation": "Alo Yoga launched multiple new products on November 8, 2026, including performance apparel like the Airlift Headband, Alosoft Head Start Bra, and Double Or Nothing Tennis Skirt in various colorways.",
+      "suggestion": "Expand your accessories and performance wear offerings with functional pieces like headbands and sport-specific bottoms that complement your core high-performance apparel line.",
+      "citedCompetitorDomains": [
+        "aloyoga.com"
+      ],
+      "sources": [
+        {
+          "findingId": "aloyoga.com-product-1",
+          "competitorDomain": "aloyoga.com",
+          "brandName": "Alo Yoga",
+          "kind": "product",
+          "url": "https://aloyoga.com/products/a0054u-airlift-headband-brownstone",
+          "date": "2026-11-08T05:57:28-08:00"
+        },
+        {
+          "findingId": "aloyoga.com-product-5",
+          "competitorDomain": "aloyoga.com",
+          "brandName": "Alo Yoga",
+          "kind": "product",
+          "url": "https://aloyoga.com/products/w6574r-double-or-nothing-tennis-skirt-paradise-pink",
+          "date": "2026-11-08T05:27:23-08:00"
+        }
+      ]
+    },
+    {
+      "competitorObservation": "Body Glove is running an ad campaign positioning itself as an iconic swimwear brand for stylish water adventures.",
+      "suggestion": "Refine your brand messaging to emphasize the specific lifestyle or performance benefit your athletic wear delivers, going beyond product features to connect with your target customer's identity and values.",
+      "citedCompetitorDomains": [
+        "bodyglove.com"
+      ],
+      "sources": [
+        {
+          "findingId": "bodyglove.com-ad-0",
+          "competitorDomain": "bodyglove.com",
+          "brandName": "Body Glove",
+          "kind": "ad",
+          "url": "https://www.facebook.com/ads/library/?id=1195390429123219",
+          "date": "2025-10-20"
+        }
+      ]
+    }
+  ],
+  "movesDiagnostics": {
+    "groundedCount": 3,
+    "totalCount": 3,
+    "distinctCompetitorsCited": 2,
+    "diversityOk": true
+  },
+  "summary": {
+    "activeAdsFound": 45,
+    "longestRunningAdDays": 384,
+    "newProductsLast30Days": 20
+  }
+}

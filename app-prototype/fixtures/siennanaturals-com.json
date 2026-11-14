@@ -1,0 +1,244 @@
+{
+  "storeUrl": "https://siennanaturals.com",
+  "domain": "siennanaturals-com",
+  "capturedAt": "2026-11-08T12:51:28.930Z",
+  "ownProductsStatus": "ok",
+  "competitors": [
+    {
+      "domain": "curlsmith.com",
+      "name": "Curl Smith",
+      "whyPicked": "Direct competitor with vegan curl-focused product line including shampoos, conditioners, leave-in conditioners, and styling creams that directly match Sienna Naturals' product range and mid-tier pricing.",
+      "adsStatus": "ok",
+      "totalAdsFound": 50,
+      "topAds": [
+        {
+          "libraryId": "966013479550031",
+          "adText": "Detox your curls with nature-powered ingredients - cleanse build-up for softer, bouncier, healthier-looking hairReset curls. Remove build-up.Vegan & Cruelty-Free HaircareShop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=966013479550031",
+          "startDate": "2026-05-27",
+          "daysRunning": 165,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "1713415999784591",
+          "adText": "Upgrade your wash day - deep cleanse, stronger curls, and definition without drynessCleanse without strippingVegan & Cruelty-Free HaircareShop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=1713415999784591",
+          "startDate": "2026-05-27",
+          "daysRunning": 165,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "1723869242394455",
+          "adText": "Locken zwischen den Wäschen auffrischen - ein geruchsneutralisierender Feuchtigkeitsspray, der pflegt statt auszutrocknenEntwickelt für alle LockentypenVegane & tierversuchsfreie HaarpflegeShop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=1723869242394455",
+          "startDate": "2026-05-27",
+          "daysRunning": 165,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        }
+      ],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Dryer Set",
+          "url": "https://curlsmith.com/products/dryer-set",
+          "publishedAt": "2026-10-29T15:36:34-04:00"
+        },
+        {
+          "title": "Travel Dryer Set",
+          "url": "https://curlsmith.com/products/travel-dryer-set",
+          "publishedAt": "2026-09-23T13:14:35-04:00"
+        },
+        {
+          "title": "Fragrance-Free Set",
+          "url": "https://curlsmith.com/products/fragrance-free-set",
+          "publishedAt": "2026-09-23T13:14:21-04:00"
+        },
+        {
+          "title": "Strength Set",
+          "url": "https://curlsmith.com/products/strength-set",
+          "publishedAt": "2026-09-23T13:13:44-04:00"
+        },
+        {
+          "title": "Frizz Control Set",
+          "url": "https://curlsmith.com/products/frizz-control-set",
+          "publishedAt": "2026-09-23T13:13:02-04:00"
+        },
+        {
+          "title": "Moisture Set",
+          "url": "https://curlsmith.com/products/moisture-set",
+          "publishedAt": "2026-09-23T13:12:58-04:00"
+        },
+        {
+          "title": "Jumbo Bestseller Set",
+          "url": "https://curlsmith.com/products/jumbo-bestseller-set",
+          "publishedAt": "2026-09-23T13:12:52-04:00"
+        },
+        {
+          "title": "Bestseller Set",
+          "url": "https://curlsmith.com/products/bestseller-set",
+          "publishedAt": "2026-09-23T13:12:45-04:00"
+        },
+        {
+          "title": "Discovery Set",
+          "url": "https://curlsmith.com/products/discovery-set",
+          "publishedAt": "2026-09-21T11:35:23-04:00"
+        },
+        {
+          "title": "CurlFit Reviving Mist",
+          "url": "https://curlsmith.com/products/curlfit-reviving-mist",
+          "publishedAt": "2026-03-20T06:39:46-04:00"
+        }
+      ],
+      "productsSourceUrl": "https://curlsmith.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:51:04.207Z"
+    },
+    {
+      "domain": "marianila.com",
+      "name": "Marian Ila",
+      "whyPicked": "100% vegan natural hair care brand offering the complete product suite (shampoos, conditioners, hair masks, oils, styling products) for curly/textured hair at comparable mid-tier price point.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "no_search_result_page_matched_the_footer_link",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Gloss Coat Travel",
+          "url": "https://marianila.com/products/gloss-coat-travel",
+          "publishedAt": "2026-11-04T05:30:29-05:00"
+        },
+        {
+          "title": "Structure Repair Beauty Box",
+          "url": "https://marianila.com/products/structure-repair-beauty-box-6450",
+          "publishedAt": "2026-10-01T03:35:54-04:00"
+        },
+        {
+          "title": "True Soft Beauty Box",
+          "url": "https://marianila.com/products/true-soft-beauty-box-6453",
+          "publishedAt": "2026-10-01T03:35:52-04:00"
+        },
+        {
+          "title": "Pure Volume Beauty Box",
+          "url": "https://marianila.com/products/pure-volume-beauty-box-6451",
+          "publishedAt": "2026-10-01T03:35:51-04:00"
+        },
+        {
+          "title": "Head & Hair Heal Beauty Box",
+          "url": "https://marianila.com/products/head-hair-heal-beauty-box-6454",
+          "publishedAt": "2026-10-01T03:35:49-04:00"
+        },
+        {
+          "title": "Gloss Discovery Set",
+          "url": "https://marianila.com/products/gloss-discovery-set",
+          "publishedAt": "2026-09-01T10:37:56-04:00"
+        },
+        {
+          "title": "Mirror Gloss Mask",
+          "url": "https://marianila.com/products/mirror-gloss-mask",
+          "publishedAt": "2026-08-03T07:22:09-04:00"
+        },
+        {
+          "title": "Mirror Gloss Conditioner Liter",
+          "url": "https://marianila.com/products/mirror-gloss-conditioner-liter",
+          "publishedAt": "2026-08-03T07:22:08-04:00"
+        },
+        {
+          "title": "Mirror Gloss Conditioner Travel",
+          "url": "https://marianila.com/products/mirror-gloss-conditioner-travel",
+          "publishedAt": "2026-08-03T07:22:07-04:00"
+        },
+        {
+          "title": "Mirror Gloss Conditioner",
+          "url": "https://marianila.com/products/mirror-gloss-conditioner",
+          "publishedAt": "2026-08-03T07:22:06-04:00"
+        }
+      ],
+      "productsSourceUrl": "https://marianila.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:51:04.195Z"
+    },
+    {
+      "domain": "brownbutterbeautyshop.com",
+      "name": "Brown Butter Beauty Shop",
+      "whyPicked": "Natural hair care specialist with textured and curly hair products including oils, conditioners, and scalp treatments that align with Sienna Naturals' focus on natural, vegan formulations and product offerings.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "zero_search_results",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "not_enough_data",
+      "productsReason": "no_products_json_or_sitemap_available",
+      "newProducts": [],
+      "productsSourceUrl": "https://brownbutterbeautyshop.com",
+      "productsCapturedAt": "2026-11-08T12:51:05.194Z"
+    }
+  ],
+  "moves": [
+    {
+      "competitorObservation": "Curlsmith launched a \"Dryer Set\" on October 29, 2026.",
+      "suggestion": "Consider creating your own styling tool bundle or accessory set to complement your curl care product line, giving customers a complete hair care solution in one purchase.",
+      "citedCompetitorDomains": [
+        "curlsmith.com"
+      ],
+      "sources": [
+        {
+          "findingId": "curlsmith.com-product-0",
+          "competitorDomain": "curlsmith.com",
+          "brandName": "Curl Smith",
+          "kind": "product",
+          "url": "https://curlsmith.com/products/dryer-set",
+          "date": "2026-10-29T15:36:34-04:00"
+        }
+      ]
+    },
+    {
+      "competitorObservation": "Marianila launched four themed beauty boxes on October 1, 2026, including Structure Repair Beauty Box, True Soft Beauty Box, Pure Volume Beauty Box, and Head & Hair Heal Beauty Box.",
+      "suggestion": "Create curated bundles organized around specific curl needs or benefits. such as a \"Curl Repair Bundle\" or \"Deep Hydration Set\". to help customers find targeted solutions and increase average order value.",
+      "citedCompetitorDomains": [
+        "marianila.com"
+      ],
+      "sources": [
+        {
+          "findingId": "marianila.com-product-1",
+          "competitorDomain": "marianila.com",
+          "brandName": "Marian Ila",
+          "kind": "product",
+          "url": "https://marianila.com/products/structure-repair-beauty-box-6450",
+          "date": "2026-10-01T03:35:54-04:00"
+        }
+      ]
+    },
+    {
+      "competitorObservation": "Curlsmith has an ad running that states \"Upgrade your wash day - deep cleanse, stronger curls, and definition without dryness.\"",
+      "suggestion": "Emphasize the strength-building and definition benefits of your cleansing products in your marketing, positioning them as an alternative for customers seeking strong, defined curls without compromising moisture.",
+      "citedCompetitorDomains": [
+        "curlsmith.com"
+      ],
+      "sources": [
+        {
+          "findingId": "curlsmith.com-ad-1",
+          "competitorDomain": "curlsmith.com",
+          "brandName": "Curl Smith",
+          "kind": "ad",
+          "url": "https://www.facebook.com/ads/library/?id=1713415999784591",
+          "date": "2026-05-27"
+        }
+      ]
+    }
+  ],
+  "movesDiagnostics": {
+    "groundedCount": 3,
+    "totalCount": 3,
+    "distinctCompetitorsCited": 2,
+    "diversityOk": true
+  },
+  "summary": {
+    "activeAdsFound": 50,
+    "longestRunningAdDays": 165,
+    "newProductsLast30Days": 2
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "storeUrl": "https://gotain.com",
+  "domain": "gotain-com",
+  "capturedAt": "2026-11-08T12:54:58.001Z",
+  "ownProductsStatus": "not_enough_data",
+  "competitors": [
+    {
+      "domain": "pepper-home.com",
+      "name": "Pepper Home",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "ok",
+      "totalAdsFound": 50,
+      "topAds": [
+        {
+          "libraryId": "604213942358801",
+          "adText": "Shop our newest embroidered fabric.0:00 / 0:06Say Hello to HayesShop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=604213942358801",
+          "startDate": "2025-02-05",
+          "daysRunning": 641,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "983353177007055",
+          "adText": "Window dressing at its finest. Customize your print, length, and lining for the perfect fit!0:00 / 0:15Shop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=983353177007055",
+          "startDate": "2025-02-12",
+          "daysRunning": 634,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        },
+        {
+          "libraryId": "1214077947020107",
+          "adText": "Classic prints updated with our signature aesthetic. Shop curtains, pillows, wallpaper and more.The New Classics Collection Shop Now",
+          "adUrl": "https://www.facebook.com/ads/library/?id=1214077947020107",
+          "startDate": "2025-04-24",
+          "daysRunning": 563,
+          "probablyPerforming": true,
+          "explanation": "Marked probably performing because it has run the longest of this competitor's active ads. Days running is the only signal available — Meta does not publish spend or sales for commercial ads, so this is a proxy, not a measurement of performance.",
+          "screenshotUrl": null
+        }
+      ],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Georgia",
+          "url": "https://pepper-home.com/products/tote-georgia-cornflower",
+          "publishedAt": "2026-11-07T15:46:08-05:00"
+        },
+        {
+          "title": "Lucie Chamomile",
+          "url": "https://pepper-home.com/products/napkins-printedlinen-lucie-chamomile",
+          "publishedAt": "2026-11-06T23:30:05-05:00"
+        },
+        {
+          "title": "Louisa Camel",
+          "url": "https://pepper-home.com/products/napkins-woven-louisa-camel",
+          "publishedAt": "2026-11-06T23:30:05-05:00"
+        },
+        {
+          "title": "Lucie Harbor",
+          "url": "https://pepper-home.com/products/napkins-printedcotton-lucie-harbor",
+          "publishedAt": "2026-11-06T23:30:05-05:00"
+        },
+        {
+          "title": "Lucie Clay",
+          "url": "https://pepper-home.com/products/napkins-printedlinen-lucie-clay",
+          "publishedAt": "2026-11-06T23:30:05-05:00"
+        },
+        {
+          "title": "Lucie Clay",
+          "url": "https://pepper-home.com/products/tablecloth-printedlinen-lucie-clay",
+          "publishedAt": "2026-11-06T23:15:29-05:00"
+        },
+        {
+          "title": "Lucie Chamomile",
+          "url": "https://pepper-home.com/products/tablecloth-printedlinen-lucie-chamomile",
+          "publishedAt": "2026-11-06T23:15:27-05:00"
+        },
+        {
+          "title": "Lucie Harbor",
+          "url": "https://pepper-home.com/products/tablecloth-printedcotton-lucie-harbor",
+          "publishedAt": "2026-11-06T23:15:26-05:00"
+        },
+        {
+          "title": "Quinn Chestnut",
+          "url": "https://pepper-home.com/products/pouch-chenillejacquard-quinn-chestnut",
+          "publishedAt": "2026-11-06T19:57:39-05:00"
+        },
+        {
+          "title": "Honey Velvet",
+          "url": "https://pepper-home.com/products/pouch-solid-velvet-honey",
+          "publishedAt": "2026-11-06T19:57:38-05:00"
+        }
+      ],
+      "productsSourceUrl": "https://pepper-home.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:54:32.378Z"
+    },
+    {
+      "domain": "theinside.com",
+      "name": "The Inside",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "no_facebook_link_found_on_competitor_site",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "not_enough_data",
+      "productsReason": "no_products_json_or_sitemap_available",
+      "newProducts": [],
+      "productsSourceUrl": "https://theinside.com",
+      "productsCapturedAt": "2026-11-08T12:54:36.966Z"
+    },
+    {
+      "domain": "curtarra.com",
+      "name": "Curtarra",
+      "whyPicked": "You told us to check this one.",
+      "adsStatus": "not_enough_data",
+      "adsReason": "zero_search_results",
+      "totalAdsFound": 0,
+      "topAds": [],
+      "productsStatus": "ok",
+      "newProducts": [
+        {
+          "title": "Free Weighted Eye Mask",
+          "url": "https://curtarra.com/products/free-weighted-eye-mask",
+          "publishedAt": "2026-11-01T17:38:37-08:00"
+        },
+        {
+          "title": "Free Hair Drying Set",
+          "url": "https://curtarra.com/products/free-hair-drying-set",
+          "publishedAt": "2026-11-01T17:38:21-08:00"
+        },
+        {
+          "title": "Lily - White",
+          "url": "https://curtarra.com/products/lily-white",
+          "publishedAt": "2026-09-23T23:58:49-07:00"
+        },
+        {
+          "title": "Lily Solid Privacy Semi Sheer Curtains",
+          "url": "https://curtarra.com/products/lily-solid-privacy-semi-sheer-curtains",
+          "publishedAt": "2026-09-23T23:58:34-07:00"
+        },
+        {
+          "title": "Brenda - Stripe",
+          "url": "https://curtarra.com/products/brenda-stripe",
+          "publishedAt": "2026-09-23T23:58:16-07:00"
+        },
+        {
+          "title": "Brenda - Waffle",
+          "url": "https://curtarra.com/products/brenda-waffle",
+          "publishedAt": "2026-09-23T23:58:06-07:00"
+        },
+        {
+          "title": "Brenda - Totem",
+          "url": "https://curtarra.com/products/brenda-totem",
+          "publishedAt": "2026-09-23T23:57:56-07:00"
+        },
+        {
+          "title": "Brenda - Check",
+          "url": "https://curtarra.com/products/brenda-check",
+          "publishedAt": "2026-09-23T23:57:46-07:00"
+        },
+        {
+          "title": "Aupenzo 2 Step Metal Ladder",
+          "url": "https://curtarra.com/products/aupenzo-2-step-metal-ladder",
+          "publishedAt": "2026-09-08T23:45:20-07:00"
+        },
+        {
+          "title": "Henry Custom Made Pillow Cover 1 Piece",
+          "url": "https://curtarra.com/products/henry-custom-made-pillow-cover-1-piece",
+          "publishedAt": "2026-08-31T23:58:18-07:00"
+        }
+      ],
+      "productsSourceUrl": "https://curtarra.com/products.json",
+      "productsCapturedAt": "2026-11-08T12:54:32.906Z"
+    }
+  ],
+  "moves": [],
+  "movesDiagnostics": {
+    "groundedCount": 0,
+    "totalCount": 0,
+    "distinctCompetitorsCited": 0,
+    "diversityOk": false
+  },
+  "summary": {
+    "activeAdsFound": 50,
+    "longestRunningAdDays": 641,
+    "newProductsLast30Days": 12
+  }
+}
